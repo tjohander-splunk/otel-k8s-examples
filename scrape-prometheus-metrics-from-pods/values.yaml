@@ -1,0 +1,6 @@
+clusterName: YOURCLUSTERHERE
+splunkObservability:
+  accessToken: YOURTOKENHERE
+  realm: YOURREALMHERE
+autodetect:
+  prometheus: true
